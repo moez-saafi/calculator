@@ -1,0 +1,73 @@
+
+body{
+		background: skyblue;
+	}
+	.wrap{
+		width:400px;
+		height: auto;
+		margin: auto;
+		background: gray;
+		padding: 15px;
+		border-radius: 5px;
+	}
+	.paper{
+		width:400px;
+		height: 500px;
+		margin: auto;
+		background: gray;
+		padding: 15px;
+		border-radius: 5px;
+		color:white;
+		font-size: 18px;
+	}
+	textarea[name="tapeHere"]{
+		width:390px;
+		height: 480px;
+	}
+	input[name='pen']{
+		width: 400px;
+		height: auto;
+		margin: auto;
+		padding:10px;
+		font-size: 22px;
+		font-weight: bold;
+		margin-top: 20px;
+		border-radius: 5px;
+	}
+	input[type ="button"][value="Back"] {
+		background: black;
+		color: white;
+	}
+	input[type=text]{
+		width: 93%;
+		padding:10px;
+		font-size: 22px;
+		font-weight: bold;
+		margin-top: 20px;
+		border-radius: 5px;
+	}
+	input[type=button]{
+		width: 92px;
+		padding:10px;
+		font-size: 24px;
+		font-weight: bold;
+		border-radius: 5px;
+		margin-left: 4px;
+	}
+	#D{
+		color: white;
+		background: crimson;
+	}
+	#eq{
+		background: orange;
+		font-size: 28px;
+	}
+	#best{
+		color: aqua;
+		font-size: 18px
+	}
+	#timeClock{
+		color: white;
+		font-size: 20px;
+	}
+	
